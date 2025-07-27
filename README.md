@@ -55,7 +55,7 @@ Or uncomment the input line to take user input dynamically:
   After execution, check your folder. Files will be moved into their respective subfolders, and the log will be available at organizer_log.txt.
 
  Requirements: 
-  * Python 3.x
+  * Python 3.12.8
   * No third-party packages required (uses only built-in modules: os, shutil, logging)
 
 Sample Folder Structure (After Organizing):
